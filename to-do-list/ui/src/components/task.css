@@ -1,0 +1,13 @@
+div.task {
+  background-color: rgb(212, 224, 223);
+  padding: 10px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+div#actions {
+  display: flex;
+  column-gap: 12px;
+}
